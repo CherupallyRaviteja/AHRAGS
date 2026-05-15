@@ -204,17 +204,17 @@ All major test cases passed successfully.
 
 ---
 
-## Output Screenshots
+## Output Screens
 
 ![Query Response !](screenshots/Query1.png)
 
 ![Query Response 2](screenshots/Query2.png)
 
-![Uploading Document](screenshots/Upload_Document.mp4)
+[Watch Uploading Document Demo](screenshots/Upload_Document.mp4)
 
-![Clearing Chat](screenshots/Clear_Chat.mp4)
+[Watch Clearing Chat Demo](screenshots/Clear_Chat.mp4)
 
-![Deleting Document](screenshots/Delete_Document.mp4)
+[Watch Deleting Document Demo](screenshots/Delete_Document.mp4)
 
 ---
 
