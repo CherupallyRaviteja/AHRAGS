@@ -1,6 +1,10 @@
 numpy==2.1.2
 requests==2.32.3
 tqdm==4.67.1
+pyvis==0.3.2
+fastapi==0.116.1
+uvicorn[standard]==0.35.0
+python-multipart==0.0.20
 
 # NLP / embeddings
 nltk==3.9.1
@@ -37,3 +41,7 @@ psycopg2-binary==2.9.11
 protobuf==5.29.5
 joblib==1.5.2
 regex==2025.9.18
+
+
+neo4j>=5.19,<6.0 
+pyvis>=0.3.2   

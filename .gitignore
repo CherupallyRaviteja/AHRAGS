@@ -1,0 +1,142 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# =========================
+# Environment / Secrets
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+# =========================
+# Project runtime data
+# =========================
+uploads/
+data/
+tmp/
+temp/
+
+# =========================
+# Databases / Local storage
+# =========================
+*.db
+*.sqlite
+*.sqlite3
+
+# PostgreSQL local dumps
+*.dump
+*.sql
+
+# =========================
+# Neo4j
+# =========================
+neo4j/data/
+neo4j/logs/
+neo4j/import/
+neo4j/plugins/
+neo4j/conf/
+neo4j/run/
+
+# Neo4j Desktop / local database files
+.graphdb/
+.neo4j/
+
+# =========================
+# Machine Learning / Models
+# =========================
+models/
+checkpoints/
+*.bin
+*.pt
+*.pth
+*.safetensors
+
+# HuggingFace cache
+.cache/
+huggingface/
+transformers_cache/
+
+# =========================
+# Frontend - Node
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build output
+dist/
+build/
+.vite/
+
+# =========================
+# IDE / Editors
+# =========================
+.vscode/
+.idea/
+*.iml
+
+# VS Code local history
+.history/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Testing / Coverage
+# =========================
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+screenshots/
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+~$*
+
+# =========================
+# Debug / Test output
+# =========================
+test_output/
+debug/
